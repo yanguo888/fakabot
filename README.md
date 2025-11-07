@@ -17,7 +17,7 @@
 
 **适用场景**：知识付费 · 虚拟商品 · 在线课程 · 软件授权 · 会员订阅
 
-🎬 [在线演示](https://t.me/fakawan_bot) · 📱 [联系客服](https://t.me/sonhshu) · 📖 [完整文档](#-快速开始)
+🎬 [在线演示](https://t.me/fakawan_bot) · 📱 [联系客服](https://t.me/iouptl) · 📖 [完整文档](#-快速开始)
 
 中文文档 | [English](README.en.md)
 
