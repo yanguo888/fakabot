@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 授权检查 - 请勿删除此部分，否则程序无法运行
-import _auth_check
-
 import asyncio
 import json
 import re
@@ -21,10 +18,6 @@ import hashlib
 from admin_panel import register_admin_handlers
 from user_flow import register_user_handlers
 from utils import ensure_settings_table, get_setting, set_setting
-
-# ⚠️ 离线授权验证（商业版）
-from offline_license_checker import init_license_checker
-init_license_checker()
 
 # Redis缓存和频率限制
 try:

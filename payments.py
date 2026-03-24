@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 授权检查 - 请勿删除此部分，否则程序无法运行
-import _auth_check
-
 #!/usr/bin/env python3
 """
 支付系统核心模块 - 重构版
