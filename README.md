@@ -1,4 +1,4 @@
-# 🤖 Fakabot - 专业的 Telegram 自动发卡机器人
+# 🤖 Fakabot - 专业的 Telegram 自动发卡机器人（破解版、无需授权码）
 
 [![GitHub release](https://img.shields.io/github/v/release/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/releases)
 [![GitHub stars](https://img.shields.io/github/stars/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/stargazers)
