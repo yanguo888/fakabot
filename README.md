@@ -1,9 +1,9 @@
 # 🤖 Fakabot - 专业的 Telegram 自动发卡机器人
 
-[![GitHub release](https://img.shields.io/github/v/release/GUGEGEBAIDU/fakabot?style=flat-square)](https://github.com/GUGEGEBAIDU/fakabot/releases)
-[![GitHub stars](https://img.shields.io/github/stars/GUGEGEBAIDU/fakabot?style=flat-square)](https://github.com/GUGEGEBAIDU/fakabot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GUGEGEBAIDU/fakabot?style=flat-square)](https://github.com/GUGEGEBAIDU/fakabot/network)
-[![GitHub issues](https://img.shields.io/github/issues/GUGEGEBAIDU/fakabot?style=flat-square)](https://github.com/GUGEGEBAIDU/fakabot/issues)
+[![GitHub release](https://img.shields.io/github/v/release/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/releases)
+[![GitHub stars](https://img.shields.io/github/stars/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/network)
+[![GitHub issues](https://img.shields.io/github/issues/yanguo0905/fakabot?style=flat-square)](https://github.com/yanguo0905/fakabot/issues)
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg?style=flat-square)]()
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg?style=flat-square)]()
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg?style=flat-square)](https://t.me/sonhshu)
@@ -167,7 +167,7 @@
 #### 第 1 步：克隆项目
 
 ```bash
-git clone https://github.com/GUGEGEBAIDU/fakabot.git
+git clone https://github.com/yanguo0905/fakabot.git
 cd fakabot
 ```
 
@@ -305,7 +305,7 @@ docker compose up -d --build || docker-compose up -d --build
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/GUGEGEBAIDU/fakabot.git
+git clone https://github.com/yanguo0905/fakabot.git
 cd fakabot
 
 # 2. 复制配置文件
@@ -384,7 +384,7 @@ tar -czf backup.tar.gz data/ config.json
 ssh root@你的服务器IP
 
 # 克隆项目
-git clone https://github.com/GUGEGEBAIDU/fakabot.git
+git clone https://github.com/yanguo0905/fakabot.git
 cd fakabot
 ```
 
