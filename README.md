@@ -17,7 +17,7 @@
 
 **适用场景**：知识付费 · 虚拟商品 · 在线课程 · 软件交付 · 会员服务
 
-🎬 [在线演示](https://t.me/fakawan_bot) · 📱 [联系客服](https://t.me/szsh66) · 📖 [完整文档](#-快速开始)
+🎬 [在线演示](https://t.me/) · 📱 [联系客服](https://t.me/) · 📖 [完整文档](#-快速开始)
 
 中文文档 | [English](README.en.md)
 
@@ -1044,6 +1044,6 @@ A: 当前版本不支持，后续版本会添加。
 
 Made with ❤️ by Fakabot Team
 
-[开始使用](#-快速开始) · [查看演示](https://t.me/fakawan_bot) · [联系客服](https://t.me/szsh66)
+[开始使用](#-快速开始) · [查看演示](https://t.me/) · [联系客服](https://t.me/)
 
 </div>
