@@ -33,7 +33,6 @@ services:
       - "127.0.0.1:58002:58002"
     volumes:
       - ./config.json:/app/config.json:ro
-      - ./license.key:/app/license.key:ro
       - ./data:/app/data
     networks:
       - fakabot_network

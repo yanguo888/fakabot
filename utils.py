@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 授权检查 - 请勿删除此部分，否则程序无法运行
-import _auth_check
-
 # Consolidated utilities module: merged from utils/*.py
 # Sections:
 # - constants: STATUS_ZH, MSG
