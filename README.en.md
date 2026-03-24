@@ -27,12 +27,11 @@
 
 ## ⚠️ Important Notice
 
-This project requires a **license key** to run. The code includes a built-in authorization system that cannot be bypassed.
+The current version has removed built-in authorization checks, so **`license.key` is no longer required** for deployment.
 
-- ✅ License keys use signature verification and cannot be forged
-- ✅ Automatic reminder 7 days before expiration
-- ✅ Automatic stop after expiration
-- ✅ Support remote renewal without redeployment
+- ✅ Startup no longer depends on license files
+- ✅ Core business flows (payment/order/delivery) remain unchanged
+- ✅ Older license-related setup steps in this document are legacy notes
 
 ---
 
