@@ -988,7 +988,7 @@ A: 当前版本不支持，后续版本会添加。
 
 ## 📞 联系我们
 
-- **Telegram 客服**: [@sonhshu](https://t.me/sonhshu)
+- **Telegram 客服**: [](https://t.me/sonhshu)
 
 ---
 
